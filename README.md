@@ -1,6 +1,6 @@
 # Gas Turbine Energy Yield Prediction.
 - This project aims to predict the energy yield of a gas turbine using ambient variables as features.
-- It utilizes machine learning techniques, specifically neural networks, for regression tasks.
+- It utilizes machine learning techniques, specifically neural networks, for both regression and classification tasks. 
 
 # Dataset.
 - The dataset contains 36,733 instances of 11 sensor measures aggregated over one hour from a gas turbine.
